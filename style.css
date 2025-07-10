@@ -255,3 +255,33 @@ padding: 100px 60px;
 .label-field{
     font-size: 26px;
 }
+.footer{
+    background-color: white;
+    text-align: center;
+}
+
+.web{
+     font-size: 80px;
+   font-weight: 700;
+   color:#4E47FF ;
+   text-align: center;
+   font-family: Arial, Helvetica, sans-serif;
+   padding: 50px 0 20px 0;
+
+}
+
+.web-title{
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.listed{
+    gap: 10px;
+    text-align: center;
+    margin: 10px auto; 
+    padding-bottom: 40px;
+     display: flex;
+    justify-content: space-between;
+ align-items: center;
+
+}
