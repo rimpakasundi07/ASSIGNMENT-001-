@@ -196,3 +196,31 @@ font-weight: 600;
     gap: 12px;
     align-items: center;
 }
+.mini-title{
+    font-size: 16px;
+     font-weight: 400;
+     padding: 14px 0;
+
+}
+
+.focus{
+    text-align: center;
+
+}
+
+.bg-immage img{
+ border-radius: 48px;
+ width:full ;
+ height: full;
+ margin: 20px auto;
+ display: flex;
+ justify-content: center;
+ align-items: centerw;
+    
+}
+
+.focus-container{
+    margin: 100px;
+    padding: 70px 150px ;
+    background-color: #FFFFFF;
+}
