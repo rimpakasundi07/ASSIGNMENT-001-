@@ -2,6 +2,11 @@
     font-family: "Raleway", sans-serif;
     margin: 0;
     padding: 0;
+
+
+}
+body{
+    background-color: #F5F8FF;
 }
 
 
@@ -12,6 +17,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 100vh ;
+
    
 }
 
@@ -33,6 +39,22 @@
     text-align: center;
     padding-bottom: 37px;
    
+}
+
+.action-title{
+    font-size: 42px;
+    font-weight: 700;
+    margin-bottom: 24px;
+
+
+}
+
+.action-subtitle{
+      margin-bottom: 24px;
+      color:#25243280;
+      font-size: 24px;
+font-weight: 400;
+
 }
 
 
@@ -62,5 +84,17 @@
     padding: 200px 150px ;
     flex-direction: column;
    
+}
+
+.action{
+    margin: 100px ;
+     display: flex;
+      justify-content: space-between;
+      align-items: center;
+
+}
+
+.actionimg{
+    border-radius: 50px;
 }
 
