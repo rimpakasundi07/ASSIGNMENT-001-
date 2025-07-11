@@ -257,7 +257,7 @@ font-weight: 600;
 }
 
 .touch{
-    font-size: 97px;
+    font-size: 80px;
 font-weight: 700;
 padding: 100px 60px;
 
@@ -299,8 +299,9 @@ padding: 100px 60px;
 
 .input label  {
     display: block;
-      font-size: 26px;
       margin-bottom: 10px;
+      font-size: 18px;
+     font-weight: 500;
      
  
 }
